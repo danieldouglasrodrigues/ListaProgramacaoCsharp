@@ -1,0 +1,16 @@
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\bin\Debug\net8.0-windows\Atividade9.exe
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\bin\Debug\net8.0-windows\Atividade9.deps.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\bin\Debug\net8.0-windows\Atividade9.runtimeconfig.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\bin\Debug\net8.0-windows\Atividade9.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\bin\Debug\net8.0-windows\Atividade9.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\Atividade9.Form1.resources
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\Atividade9.csproj.GenerateResource.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\Atividade9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\Atividade9.AssemblyInfoInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\Atividade9.AssemblyInfo.cs
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\Atividade9.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\Atividade9.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\refint\Atividade9.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\Atividade9.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\Atividade9.genruntimeconfig.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade9\obj\Debug\net8.0-windows\ref\Atividade9.dll

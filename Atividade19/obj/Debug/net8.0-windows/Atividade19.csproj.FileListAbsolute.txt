@@ -1,0 +1,16 @@
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\bin\Debug\net8.0-windows\Atividade19.exe
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\bin\Debug\net8.0-windows\Atividade19.deps.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\bin\Debug\net8.0-windows\Atividade19.runtimeconfig.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\bin\Debug\net8.0-windows\Atividade19.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\bin\Debug\net8.0-windows\Atividade19.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\Atividade19.Form1.resources
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\Atividade19.csproj.GenerateResource.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\Atividade19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\Atividade19.AssemblyInfoInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\Atividade19.AssemblyInfo.cs
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\Atividade19.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\Atividade19.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\refint\Atividade19.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\Atividade19.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\Atividade19.genruntimeconfig.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade19\obj\Debug\net8.0-windows\ref\Atividade19.dll

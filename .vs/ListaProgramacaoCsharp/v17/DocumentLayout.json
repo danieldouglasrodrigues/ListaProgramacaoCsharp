@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C775078D-0BE1-4EBE-9C6A-75CCC534A8F6}|Atividade13\\Atividade13.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C775078D-0BE1-4EBE-9C6A-75CCC534A8F6}|Atividade13\\Atividade13.csproj|solutionrelative:atividade13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E5D7F2-8D6B-45D7-803C-19E7D3E5F362}|Atividade14\\Atividade14.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E5D7F2-8D6B-45D7-803C-19E7D3E5F362}|Atividade14\\Atividade14.csproj|solutionrelative:atividade14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E5D7F2-8D6B-45D7-803C-19E7D3E5F362}|Atividade14\\Atividade14.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60E5D7F2-8D6B-45D7-803C-19E7D3E5F362}|Atividade14\\Atividade14.csproj|solutionrelative:atividade14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6472887-1D22-4DE5-87F5-E9E86FE6A8A4}|Atividade16\\Atividade16.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6472887-1D22-4DE5-87F5-E9E86FE6A8A4}|Atividade16\\Atividade16.csproj|solutionrelative:atividade16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6472887-1D22-4DE5-87F5-E9E86FE6A8A4}|Atividade16\\Atividade16.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6472887-1D22-4DE5-87F5-E9E86FE6A8A4}|Atividade16\\Atividade16.csproj|solutionrelative:atividade16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D29B87-7350-4AAE-B510-BAEA87B6822C}|Atividade19\\Atividade19.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D29B87-7350-4AAE-B510-BAEA87B6822C}|Atividade19\\Atividade19.csproj|solutionrelative:atividade19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E45EF6-4748-42CD-A0DA-8CB43F2847E4}|Atividade18\\Atividade18.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E45EF6-4748-42CD-A0DA-8CB43F2847E4}|Atividade18\\Atividade18.csproj|solutionrelative:atividade18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D29B87-7350-4AAE-B510-BAEA87B6822C}|Atividade19\\Atividade19.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19D29B87-7350-4AAE-B510-BAEA87B6822C}|Atividade19\\Atividade19.csproj|solutionrelative:atividade19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E45EF6-4748-42CD-A0DA-8CB43F2847E4}|Atividade18\\Atividade18.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09E45EF6-4748-42CD-A0DA-8CB43F2847E4}|Atividade18\\Atividade18.csproj|solutionrelative:atividade18\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C6565-F166-44D1-8817-838FC3428E15}|Atividade17\\Atividade17.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C6565-F166-44D1-8817-838FC3428E15}|Atividade17\\Atividade17.csproj|solutionrelative:atividade17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C6565-F166-44D1-8817-838FC3428E15}|Atividade17\\Atividade17.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41C6565-F166-44D1-8817-838FC3428E15}|Atividade17\\Atividade17.csproj|solutionrelative:atividade17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C226A58B-1BBC-40BD-8609-F1745286A1CE}|Atividade12\\Atividade12.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C226A58B-1BBC-40BD-8609-F1745286A1CE}|Atividade12\\Atividade12.csproj|solutionrelative:atividade12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2469E8-6FEE-4CB0-A7CC-25FFDC6F2A34}|Atividade11\\Atividade11.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D2469E8-6FEE-4CB0-A7CC-25FFDC6F2A34}|Atividade11\\Atividade11.csproj|solutionrelative:atividade11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC901C04-9D2F-41D9-92FE-DF2CE2119DD5}|Atividade1\\Atividade1.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC901C04-9D2F-41D9-92FE-DF2CE2119DD5}|Atividade1\\Atividade1.csproj|solutionrelative:atividade1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8A0B6F-9A16-473E-94AE-EE7A84EEB462}|Atividade15\\Atividade15.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA8A0B6F-9A16-473E-94AE-EE7A84EEB462}|Atividade15\\Atividade15.csproj|solutionrelative:atividade15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03984B35-CAB0-4A39-83D4-81BBB4890D27}|Atividade10\\Atividade10.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03984B35-CAB0-4A39-83D4-81BBB4890D27}|Atividade10\\Atividade10.csproj|solutionrelative:atividade10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2A6DC9-C2C4-43EA-A476-D712F9F59A60}|Atividade9\\Atividade9.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B2A6DC9-C2C4-43EA-A476-D712F9F59A60}|Atividade9\\Atividade9.csproj|solutionrelative:atividade9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E7F725-A2D8-4DE0-8B5E-FAE7BD6E9296}|Atividade8\\Atividade8.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E7F725-A2D8-4DE0-8B5E-FAE7BD6E9296}|Atividade8\\Atividade8.csproj|solutionrelative:atividade8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AF694E-6A4A-4D5F-817D-FA1592FA06F0}|Atividade7\\Atividade7.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AF694E-6A4A-4D5F-817D-FA1592FA06F0}|Atividade7\\Atividade7.csproj|solutionrelative:atividade7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159516B5-FDC0-4A3F-A440-CD983555582A}|Atividade2\\Atividade2.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159516B5-FDC0-4A3F-A440-CD983555582A}|Atividade2\\Atividade2.csproj|solutionrelative:atividade2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9A9784-9248-47D6-9CCD-F40832381D68}|Atividade3\\Atividade3.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9A9784-9248-47D6-9CCD-F40832381D68}|Atividade3\\Atividade3.csproj|solutionrelative:atividade3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E104DD-FFD2-48A7-9719-3C780C696FCB}|Atividade4\\Atividade4.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E104DD-FFD2-48A7-9719-3C780C696FCB}|Atividade4\\Atividade4.csproj|solutionrelative:atividade4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C7E4CD-44E9-40C4-8F44-59E4E31D4817}|Atividade5\\Atividade5.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C7E4CD-44E9-40C4-8F44-59E4E31D4817}|Atividade5\\Atividade5.csproj|solutionrelative:atividade5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5B462-4E80-44C9-864F-9BE86F074936}|Atividade6\\Atividade6.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5B462-4E80-44C9-864F-9BE86F074936}|Atividade6\\Atividade6.csproj|solutionrelative:atividade6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade14\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade14\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade14\\Form1.cs",
+              "RelativeToolTip": "Atividade14\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:44:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade19\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade19\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade19\\Form1.cs",
+              "RelativeToolTip": "Atividade19\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:37:48.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade19\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade19\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade19\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade19\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:37:16.591Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade18\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade18\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade18\\Form1.cs",
+              "RelativeToolTip": "Atividade18\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:10:25.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade17\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade17\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade17\\Form1.cs",
+              "RelativeToolTip": "Atividade17\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:24:44.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade17\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade17\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade17\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade17\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:23:10.551Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade16\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade16\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade16\\Form1.cs",
+              "RelativeToolTip": "Atividade16\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:21:06.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade16\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade16\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade16\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade16\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:31:46.186Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade14\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade14\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade14\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade14\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:27:23.544Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade13\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade13\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade13\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade13\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:24:55.738Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade18\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade18\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade18\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade18\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:09:41.703Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade12\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade12\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade12\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade12\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:20:09.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade11\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade11\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade11\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade11\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:16:57.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade1\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade1\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade1\\Program.cs",
+              "RelativeToolTip": "Atividade1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:25:32.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade15\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade15\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade15\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade15\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:29:39.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade10\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade10\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade10\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade10\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:06:59.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade9\\Form1.cs",
+              "RelativeDocumentMoniker": "Atividade9\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade9\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Atividade9\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:38:21.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade8\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade8\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade8\\Program.cs",
+              "RelativeToolTip": "Atividade8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:34:13.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade7\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade7\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade7\\Program.cs",
+              "RelativeToolTip": "Atividade7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:32:11.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade6\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade6\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade6\\Program.cs",
+              "RelativeToolTip": "Atividade6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:30:03.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade5\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade5\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade5\\Program.cs",
+              "RelativeToolTip": "Atividade5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:57:37.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade4\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade4\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade4\\Program.cs",
+              "RelativeToolTip": "Atividade4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:55:08.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade3\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade3\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade3\\Program.cs",
+              "RelativeToolTip": "Atividade3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:53:37.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade2\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade2\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade2\\Program.cs",
+              "RelativeToolTip": "Atividade2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T00:46:27.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
